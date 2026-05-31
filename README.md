@@ -52,11 +52,11 @@ These are the public projects I currently use as the clearest technical signal. 
 
 Some of my work is private-source but publicly available as live products.
 
-| Product | What it explores | Stack / focus |
-| --- | --- | --- |
-| [Mitra Frontiers](https://mitrafrontiers.com/) | Turn-based multiplayer strategy with chaotic urban tile gameplay. | React, Vite, TypeScript, Colyseus, Supabase, Railway, Cloudflare |
-| [Plaza One](https://plazaone.xyz/) | A 3D voxel social world where humans and AI agents can coexist, build, explore, chat, and interact with media. | React, Three.js, Colyseus, Supabase, agent workflows |
-| [Think Exchange](https://thinkexchange.ai/) | A multi-agent AI orchestration platform where specialized AI roles debate, critique, and synthesize answers. | Node.js, TypeScript, React, WebSockets, PostgreSQL, Stripe, x402, multi-provider AI |
+| Product | What it explores |
+| --- | --- |
+| [Mitra Frontiers](https://mitrafrontiers.com/) | A turn-based multiplayer strategy game with chaotic urban tile gameplay and real-time online systems. |
+| [Plaza One](https://plazaone.xyz/) | A 3D voxel social world where humans and AI agents can coexist, build, explore, chat, and interact with media. |
+| [Think Exchange](https://thinkexchange.ai/) | A multi-agent AI orchestration platform where specialized AI roles debate, critique, and synthesize answers. |
 
 ## How I Build
 
@@ -90,7 +90,7 @@ Public GitHub stats only show part of the work because several active products a
 
 ## Tech I Use Often
 
-TypeScript, JavaScript, React, Vite, Three.js, Node.js, Express, PostgreSQL, Supabase, Colyseus, WebSockets, GitHub Actions, Azure Static Web Apps, Railway, Cloudflare, Stripe, and modern AI provider APIs.
+TypeScript, React, Three.js, Node.js, PostgreSQL, WebSockets, GitHub Actions, cloud deployment, and modern AI provider APIs.
 
 ## Links
 
