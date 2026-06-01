@@ -7,11 +7,11 @@
 I like creating things that feel like small universes: tools, simulations, learning spaces, AI workflows, games, and systems for problems most people do not stop to imagine yet.
 
 <p>
-  <img src="https://img.shields.io/badge/systems-thinking-111827?style=for-the-badge" alt="Systems thinking" />
-  <img src="https://img.shields.io/badge/AI--assisted-development-7c3aed?style=for-the-badge" alt="AI-assisted development" />
-  <img src="https://img.shields.io/badge/cloud-and-infrastructure-1d4ed8?style=for-the-badge" alt="Cloud and infrastructure" />
-  <img src="https://img.shields.io/badge/3D-worlds-0f766e?style=for-the-badge" alt="3D worlds" />
-  <img src="https://img.shields.io/badge/education-tools-ca8a04?style=for-the-badge" alt="Education tools" />
+  <img src="https://img.shields.io/static/v1?label=&message=systems%20thinking&color=111827&style=for-the-badge" alt="Systems thinking" />
+  <img src="https://img.shields.io/static/v1?label=&message=AI-assisted%20development&color=7c3aed&style=for-the-badge" alt="AI-assisted development" />
+  <img src="https://img.shields.io/static/v1?label=&message=cloud%20%2B%20infrastructure&color=1d4ed8&style=for-the-badge" alt="Cloud and infrastructure" />
+  <img src="https://img.shields.io/static/v1?label=&message=3D%20worlds&color=0f766e&style=for-the-badge" alt="3D worlds" />
+  <img src="https://img.shields.io/static/v1?label=&message=education%20tools&color=ca8a04&style=for-the-badge" alt="Education tools" />
 </p>
 
 </div>
