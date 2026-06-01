@@ -37,10 +37,10 @@ These are the public projects I currently use as the clearest technical signal. 
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/rmssantos/examsim">ExamSim</a></h3>
-      <p>A portable offline-first exam practice platform with local editing, progress tracking, multiple question types, import/export flows, and GitHub Pages hosting.</p>
+      <h3><a href="https://examplar.app/">Examplar</a></h3>
+      <p>A private, offline-first certification exam practice platform with original syllabus-aligned questions, local progress tracking, multiple question types, and import/export flows.</p>
       <p>
-        <a href="https://rmssantos.github.io/examsim/">Live app</a>
+        <a href="https://examplar.app/">Live app</a>
         |
         <a href="https://github.com/rmssantos/examsim">Source</a>
       </p>
@@ -96,7 +96,7 @@ TypeScript, React, Three.js, Node.js, PostgreSQL, WebSockets, GitHub Actions, cl
 
 - GitHub: [github.com/rmssantos](https://github.com/rmssantos)
 - Solar System Explorer: [live app](https://green-smoke-09dea4a03.3.azurestaticapps.net/)
-- ExamSim: [live app](https://rmssantos.github.io/examsim/)
+- Examplar: [examplar.app](https://examplar.app/)
 - Mitra Frontiers: [mitrafrontiers.com](https://mitrafrontiers.com/)
 - Plaza One: [plazaone.xyz](https://plazaone.xyz/)
 - Think Exchange: [thinkexchange.ai](https://thinkexchange.ai/)
