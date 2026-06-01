@@ -2,11 +2,11 @@
 
 # Ruben Santos
 
-### Maker · Thinker · Worldbuilder
+### Maker · Thinker · AI-assisted builder · Worldbuilder
 
 I like creating things that feel like small universes: tools, simulations, learning spaces, AI workflows, games, and systems for problems most people do not stop to imagine yet.
 
-`AI systems` · `3D worlds` · `education tools` · `playable products` · `full-stack experiments`
+`systems thinking` · `AI-assisted development` · `cloud and infrastructure` · `3D worlds` · `education tools`
 
 </div>
 
@@ -18,7 +18,28 @@ I enjoy the messy space between an idea and a working product.
 
 The part I like most is not just writing code. It is thinking through the world behind the product: who lives there, what they need, what the rules are, what the system should make easier, and what kind of experience should exist when everything starts moving together.
 
-I tend to build end to end: concept, interface, interaction, backend, deployment, security, performance, and the small details that make something feel alive instead of just functional.
+I did not come from a classic software-only path. My background is broader: infrastructure, networking, cloud, systems, deployment, security, and how real environments fit together. That gives me a wide map of the problem space before I start building.
+
+AI is the multiplier. It helps me turn that systems view into working software: faster prototypes, better exploration, deeper refactors, more experiments, and products that would otherwise stay as ideas.
+
+## My Edge
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Systems vision</h3>
+      <p>I think across product, infrastructure, networking, cloud, security, operations, and user experience instead of treating them as separate worlds.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI leverage</h3>
+      <p>I use AI as a development partner: to reason, prototype, test, refactor, document, and push ideas from abstract concepts into real shipped products.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Worldbuilding</h3>
+      <p>I like inventing systems with rules, loops, characters, constraints, and emergent behavior, whether they are tools, games, simulations, or AI workflows.</p>
+    </td>
+  </tr>
+</table>
 
 ## Worlds And Tools
 
