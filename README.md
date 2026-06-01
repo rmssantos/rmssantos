@@ -6,7 +6,13 @@
 
 I like creating things that feel like small universes: tools, simulations, learning spaces, AI workflows, games, and systems for problems most people do not stop to imagine yet.
 
-`systems thinking` · `AI-assisted development` · `cloud and infrastructure` · `3D worlds` · `education tools`
+<p>
+  <img src="https://img.shields.io/badge/systems-thinking-111827?style=for-the-badge" alt="Systems thinking" />
+  <img src="https://img.shields.io/badge/AI--assisted-development-7c3aed?style=for-the-badge" alt="AI-assisted development" />
+  <img src="https://img.shields.io/badge/cloud-and-infrastructure-1d4ed8?style=for-the-badge" alt="Cloud and infrastructure" />
+  <img src="https://img.shields.io/badge/3D-worlds-0f766e?style=for-the-badge" alt="3D worlds" />
+  <img src="https://img.shields.io/badge/education-tools-ca8a04?style=for-the-badge" alt="Education tools" />
+</p>
 
 </div>
 
