@@ -1,165 +1,98 @@
 <div align="center">
 
-# 👋 Hey, I'm Ruben Santos
+# Ruben Santos
 
-### I build interactive products where AI, education, games, and the web meet.
+### Maker · Thinker · Worldbuilder
 
-## 🧠 🚀 🪐 🎮
+I like creating things that feel like small universes: tools, simulations, learning spaces, AI workflows, games, and systems for problems most people do not stop to imagine yet.
 
-I like turning rough ideas into shipped systems: useful tools, 3D learning experiences, multi-agent AI workflows, and playful web products that people can actually use.
-
-<p>
-  <a href="#-featured-builds"><img src="https://img.shields.io/badge/featured-builds-111827?style=for-the-badge" alt="Featured builds" /></a>
-  <a href="#-public-products"><img src="https://img.shields.io/badge/public-products-0f766e?style=for-the-badge" alt="Public products" /></a>
-  <a href="#-current-focus"><img src="https://img.shields.io/badge/current-focus-1d4ed8?style=for-the-badge" alt="Current focus" /></a>
-  <a href="#-github-snapshot"><img src="https://img.shields.io/badge/github-snapshot-7c3aed?style=for-the-badge" alt="GitHub snapshot" /></a>
-</p>
+`AI systems` · `3D worlds` · `education tools` · `playable products` · `full-stack experiments`
 
 </div>
 
 ---
 
-## ✨ What I Build
+## What Drives Me
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <h2>🧠</h2>
-      <strong>AI workflows</strong>
-      <br />
-      Practical AI products, orchestration, and agent collaboration.
-    </td>
-    <td width="25%" align="center">
-      <h2>🪐</h2>
-      <strong>3D web</strong>
-      <br />
-      Interactive browser worlds, learning environments, and simulations.
-    </td>
-    <td width="25%" align="center">
-      <h2>📚</h2>
-      <strong>Education tools</strong>
-      <br />
-      Offline-first study products, practice flows, and progress tracking.
-    </td>
-    <td width="25%" align="center">
-      <h2>🎮</h2>
-      <strong>Game-like systems</strong>
-      <br />
-      Social spaces, real-time interactions, and playful product loops.
-    </td>
-  </tr>
-</table>
+I enjoy the messy space between an idea and a working product.
 
-## 🚀 Featured Builds
+The part I like most is not just writing code. It is thinking through the world behind the product: who lives there, what they need, what the rules are, what the system should make easier, and what kind of experience should exist when everything starts moving together.
 
-These are the public projects I currently use as the clearest technical signal. They are also the two repositories I would pin on the GitHub profile itself.
+I tend to build end to end: concept, interface, interaction, backend, deployment, security, performance, and the small details that make something feel alive instead of just functional.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <a href="https://green-smoke-09dea4a03.3.azurestaticapps.net/">
-          <img src="https://green-smoke-09dea4a03.3.azurestaticapps.net/icons/icon-192.png" width="96" alt="Solar System Explorer logo" />
-        </a>
-      </p>
-      <h2>🪐 Solar System Explorer</h2>
-      <p>
-        A 3D educational game for kids with missions, quizzes, achievements, PT/EN support, PWA installability, mobile controls, accessibility work, tests, and performance/security hardening.
-      </p>
-      <p>
-        <a href="https://green-smoke-09dea4a03.3.azurestaticapps.net/"><img src="https://img.shields.io/badge/open-live_app-16a34a?style=for-the-badge" alt="Open Solar System Explorer live app" /></a>
-        <a href="https://github.com/rmssantos/solar-system-explorer"><img src="https://img.shields.io/badge/view-source-111827?style=for-the-badge" alt="View Solar System Explorer source" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <a href="https://examplar.app/">
-          <img src="https://examplar.app/assets/media/apple-touch-icon.png" width="96" alt="Examplar logo" />
-        </a>
-      </p>
-      <h2>📚 Examplar</h2>
-      <p>
-        A private, offline-first certification exam practice platform with original syllabus-aligned questions, local progress tracking, multiple question types, and import/export flows.
-      </p>
-      <p>
-        <a href="https://examplar.app/"><img src="https://img.shields.io/badge/open-live_app-16a34a?style=for-the-badge" alt="Open Examplar live app" /></a>
-        <a href="https://github.com/rmssantos/examsim"><img src="https://img.shields.io/badge/view-source-111827?style=for-the-badge" alt="View Examplar source" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+## Worlds And Tools
 
-## 🧪 Public Products
-
-Some of my work is private-source but publicly available as live products.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://mitrafrontiers.com/">
-          <img src="https://mitrafrontiers.com/apple-touch-icon.png" width="110" alt="Mitra Frontiers logo" />
-        </a>
-      </p>
-      <h3>🧩 <a href="https://mitrafrontiers.com/">Mitra Frontiers</a></h3>
-      <p>A turn-based multiplayer strategy game with chaotic urban tile gameplay and real-time online systems.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://plazaone.xyz/">
-          <img src="https://plazaone.xyz/apple-touch-icon.png" width="86" alt="Plaza One logo" />
-        </a>
-      </p>
-      <h3>🏙️ <a href="https://plazaone.xyz/">Plaza One</a></h3>
-      <p>A 3D voxel social world where humans and AI agents can coexist, build, explore, chat, and interact with media.</p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center">
-        <a href="https://thinkexchange.ai/">
-          <img src="https://thinkexchange.ai/logo-square-color.png" width="86" alt="Think Exchange logo" />
-        </a>
-      </p>
-      <h3>🤝 <a href="https://thinkexchange.ai/">Think Exchange</a></h3>
-      <p>A multi-agent AI orchestration platform where specialized AI roles debate, critique, and synthesize answers.</p>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ How I Build
-
-| I care about | What that usually means in practice |
+| Project | Shape |
 | --- | --- |
-| 🎯 Product usefulness | Start with a workflow, not a tech demo. |
-| ⚡ Interaction quality | Fast feedback, clear states, keyboard/mobile support, and fewer dead ends. |
-| 🚢 Real deployment | CI, hosting, DNS, auth, observability, and boring operational details. |
-| 🧱 Maintainability | Tests where they matter, clear docs, small refactors, and explicit tradeoffs. |
-| 🔐 Security | Safer URLs, CSP, dependency mitigation, auth boundaries, and secret handling. |
+| [Solar System Explorer](https://github.com/rmssantos/solar-system-explorer) | A 3D learning universe for kids to explore astronomy through missions, quizzes, achievements, bilingual content, accessibility work, and a fully interactive browser experience. |
+| [Examplar](https://examplar.app/) | A private, offline-first certification practice tool built around original syllabus-aligned questions, local progress, multiple question types, and portable study flows. |
+| [Mitra Frontiers](https://mitrafrontiers.com/) | A chaotic turn-based multiplayer strategy world built around urban tiles, emergent situations, and online play. |
+| [Plaza One](https://plazaone.xyz/) | A 3D voxel social space where humans and AI agents can coexist, build, explore, chat, and interact with media. |
+| [Think Exchange](https://thinkexchange.ai/) | A multi-agent AI thinking space where specialized roles debate, critique, and synthesize answers. |
 
-## 🔭 Current Focus
+## How I Think About Building
 
-- 🧠 Multi-agent AI workflows and orchestration
-- 🪐 Browser-based 3D experiences that feel fast and usable
-- 📚 Educational tools with strong offline and portability stories
-- 🎮 Social/game worlds where humans and agents share the same space
-- 🚀 Moving prototypes toward deployed, tested, maintainable products
+| Principle | What it means in practice |
+| --- | --- |
+| Start with the world | Before features, define the rules, users, tensions, and loops. |
+| Make it usable | A clever idea only matters if someone can actually use it. |
+| Ship the rough universe | Prototypes teach more when they are deployed and real. |
+| Polish where it counts | Interactions, edge cases, onboarding, and trust details matter. |
+| Keep learning in public | Open work, visible experiments, and honest iteration beat perfect silence. |
 
-## 📊 GitHub Snapshot
+## Current Obsessions
 
-Public GitHub stats only show part of the work because several active products are private-source.
+- Multi-agent AI systems that reason together instead of just answering once
+- Browser-based 3D spaces that feel fast, playful, and useful
+- Education tools that respect privacy, portability, and self-paced learning
+- Social/game worlds where humans and agents share the same environment
+- Turning strange ideas into working products before they become obvious
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmssantos&theme=tokyonight" alt="Ruben's public GitHub contribution summary" />
-</p>
+## Selected Open Source
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmssantos&theme=tokyonight&hide_border=true" alt="Ruben's GitHub contribution streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmssantos/solar-system-explorer">Solar System Explorer</a></h3>
+      <p>Interactive 3D educational experience for exploring the Solar System.</p>
+      <p>
+        <a href="https://green-smoke-09dea4a03.3.azurestaticapps.net/">Live app</a>
+        ·
+        <a href="https://github.com/rmssantos/solar-system-explorer">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmssantos/examsim">Examplar</a></h3>
+      <p>Private, offline-first certification exam practice platform.</p>
+      <p>
+        <a href="https://examplar.app/">Live app</a>
+        ·
+        <a href="https://github.com/rmssantos/examsim">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🧰 Tech I Use Often
+## Toolbox
 
 TypeScript, React, Three.js, Node.js, PostgreSQL, WebSockets, GitHub Actions, cloud deployment, and modern AI provider APIs.
 
-## 🔗 Links
+<details>
+  <summary>GitHub snapshot</summary>
+
+  <br />
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmssantos&theme=tokyonight" alt="Ruben's public GitHub contribution summary" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmssantos&theme=tokyonight&hide_border=true" alt="Ruben's GitHub contribution streak" />
+  </p>
+
+</details>
+
+## Links
 
 - GitHub: [github.com/rmssantos](https://github.com/rmssantos)
 - Solar System Explorer: [live app](https://green-smoke-09dea4a03.3.azurestaticapps.net/)
