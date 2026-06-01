@@ -57,6 +57,11 @@ These are the public projects I currently use as the clearest technical signal. 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://green-smoke-09dea4a03.3.azurestaticapps.net/">
+          <img src="https://green-smoke-09dea4a03.3.azurestaticapps.net/icons/icon-192.png" width="96" alt="Solar System Explorer logo" />
+        </a>
+      </p>
       <h2>🪐 Solar System Explorer</h2>
       <p>
         A 3D educational game for kids with missions, quizzes, achievements, PT/EN support, PWA installability, mobile controls, accessibility work, tests, and performance/security hardening.
@@ -67,6 +72,11 @@ These are the public projects I currently use as the clearest technical signal. 
       </p>
     </td>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://examplar.app/">
+          <img src="https://examplar.app/assets/media/apple-touch-icon.png" width="96" alt="Examplar logo" />
+        </a>
+      </p>
       <h2>📚 Examplar</h2>
       <p>
         A private, offline-first certification exam practice platform with original syllabus-aligned questions, local progress tracking, multiple question types, and import/export flows.
@@ -86,14 +96,29 @@ Some of my work is private-source but publicly available as live products.
 <table>
   <tr>
     <td width="33%" valign="top">
+      <p align="center">
+        <a href="https://mitrafrontiers.com/">
+          <img src="https://mitrafrontiers.com/apple-touch-icon.png" width="110" alt="Mitra Frontiers logo" />
+        </a>
+      </p>
       <h3>🧩 <a href="https://mitrafrontiers.com/">Mitra Frontiers</a></h3>
       <p>A turn-based multiplayer strategy game with chaotic urban tile gameplay and real-time online systems.</p>
     </td>
     <td width="33%" valign="top">
+      <p align="center">
+        <a href="https://plazaone.xyz/">
+          <img src="https://plazaone.xyz/apple-touch-icon.png" width="86" alt="Plaza One logo" />
+        </a>
+      </p>
       <h3>🏙️ <a href="https://plazaone.xyz/">Plaza One</a></h3>
       <p>A 3D voxel social world where humans and AI agents can coexist, build, explore, chat, and interact with media.</p>
     </td>
     <td width="33%" valign="top">
+      <p align="center">
+        <a href="https://thinkexchange.ai/">
+          <img src="https://thinkexchange.ai/logo-square-color.png" width="86" alt="Think Exchange logo" />
+        </a>
+      </p>
       <h3>🤝 <a href="https://thinkexchange.ai/">Think Exchange</a></h3>
       <p>A multi-agent AI orchestration platform where specialized AI roles debate, critique, and synthesize answers.</p>
     </td>
