@@ -121,6 +121,4 @@ TypeScript, React, Three.js, Node.js, PostgreSQL, WebSockets, GitHub Actions, cl
 - GitHub: [github.com/rmssantos](https://github.com/rmssantos)
 - Solar System Explorer: [live app](https://green-smoke-09dea4a03.3.azurestaticapps.net/)
 - Examplar: [examplar.app](https://examplar.app/)
-- Mitra Frontiers: [mitrafrontiers.com](https://mitrafrontiers.com/)
-- Plaza One: [plazaone.xyz](https://plazaone.xyz/)
-- Think Exchange: [thinkexchange.ai](https://thinkexchange.ai/)
+
