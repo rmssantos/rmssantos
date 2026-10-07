@@ -53,9 +53,6 @@ AI is the multiplier. It helps me turn that systems view into working software: 
 | --- | --- |
 | [Solar System Explorer](https://github.com/rmssantos/solar-system-explorer) | A 3D learning universe for kids to explore astronomy through missions, quizzes, achievements, bilingual content, accessibility work, and a fully interactive browser experience. |
 | [Examplar](https://examplar.app/) | A private, offline-first certification practice tool built around original syllabus-aligned questions, local progress, multiple question types, and portable study flows. |
-| [Mitra Frontiers](https://mitrafrontiers.com/) | A chaotic turn-based multiplayer strategy world built around urban tiles, emergent situations, and online play. |
-| [Plaza One](https://plazaone.xyz/) | A 3D voxel social space where humans and AI agents can coexist, build, explore, chat, and interact with media. |
-| [Think Exchange](https://thinkexchange.ai/) | A multi-agent AI thinking space where specialized roles debate, critique, and synthesize answers. |
 
 ## How I Think About Building
 
